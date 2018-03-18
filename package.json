@@ -1,0 +1,14 @@
+{
+  "name": "weatherdisplay",
+  "version": "0.0.1",
+  "description": "A web application to display the weather with the openweathermap's API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bruge Louis",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
